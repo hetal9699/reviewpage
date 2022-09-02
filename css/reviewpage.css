@@ -1,0 +1,31 @@
+.h200{
+height: 400px;
+}
+.width{
+    width: 350px;
+}
+.conatinerwidth{
+    max-width: 700px;
+}
+.bg_blue{
+    background-color: #425c99;
+}
+.text_blue{
+    color: #425c99;
+}
+.fontsize11{
+    font-size: 13px;
+}
+.fontsize18{
+    font-size: 20px;
+}
+.qrimage{
+    width: 100px;
+    height: 100px;
+}
+.fontfamilyos{
+    font-family: 'Oswald', sans-serif;
+}
+.letterspace{
+    letter-spacing: 1.5px;
+}
